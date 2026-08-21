@@ -1,0 +1,3 @@
+Disposable test note for tool isolation.
+Date: 2026-08-20
+This file can be deleted with the PR.
